@@ -1,20 +1,23 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="utf-8">
-    <title>Bay Area Legal Technology</title>
-    <meta name="description" content="Informal meetup group for legal technology enthusiasts">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-</head>
-<body>
-  <header>
-    <h1>Bay Area Legal Technology</h1>
-  </header>
-  <main>
-    <p>Coming soon</p>
-  </main>
-  <footer>
-    <small>Copyright &copy; <time datetime="2016">2016</time> | License: <a href="http://creativecommons.org/licenses/by-sa/4.0/">CC-BY-SA</a></small>
-  </footer>
-</body>
-</html>
+---
+layout: default
+---
+
+<div class="home">
+
+  <h1 class="page-heading">Posts</h1>
+
+  <ul class="post-list">
+    {% for post in site.posts %}
+      <li>
+        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+
+        <h2>
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        </h2>
+      </li>
+    {% endfor %}
+  </ul>
+
+  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+
+</div>

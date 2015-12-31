@@ -1,0 +1,11 @@
+# Site settings
+title: Bay Area Legal Technology
+email: triumvirate@bayarealegaltech.org
+description: Informal meetup group for legal technology enthusiasts in the San Francisco Bay Area
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://bayarealegaltech.org" # the base hostname & protocol for your site
+twitter_username: BALegalTech
+github_username: BayAreaLegalTech
+
+# Build settings
+markdown: kramdown

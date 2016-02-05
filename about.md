@@ -6,7 +6,7 @@ permalink: /about
 
 As you have probably figured out, Bay Area Legal Technology, or BALT, is about legal technology...in the Bay Area.
 
-This is an **informal meetup group** that gets together several times per year. Often we meet at a bar, and sometimes a law firm or company will host an event where people can present.
+This is an **informal meetup group** that gets together several times per year. Sometimes we meet at a bar and swap stories. Sometimes a law firm or company will host an event where people present their latest projects.
 
 Everyone is welcome, as long as you conduct yourself civilly. Please see our [Code of Conduct](/conduct).
 

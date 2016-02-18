@@ -8,7 +8,7 @@ BALT lives! Join us for our first get-together of 2016.
 
 **When**: February 18, 2016 at 6pm
 
-**Where**: [Southern Pacific Brewing](http://www.southernpacificbrewing.com/) in the Mission ([map](https://goo.gl/maps/pvaqxGzJX7U2) — accessible from 20th & Mission BART)
+**Where**: [Southern Pacific Brewing](http://www.southernpacificbrewing.com/) in the Mission ([map](https://goo.gl/maps/pvaqxGzJX7U2) — accessible from 16th or 24th & Mission BART)
 
 **Why**: Legal technologists. Beer. Burgers.
 
